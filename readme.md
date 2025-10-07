@@ -169,8 +169,7 @@ README.md                              # Project documentation
 
 ## 👨‍💻 Author
 
-Created by [Your Name or Team Name]  
-License: MIT or your preferred license
+Created by Denisha Ketan Tank, Ayush Sunil Gawai
 ```
 
 ---
